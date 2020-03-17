@@ -14,7 +14,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### Studies referencies - Materials
+### Studies Materials
 
 Learn Flutter & Dart to Build iOS & Android Apps
 Udemy: [https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
