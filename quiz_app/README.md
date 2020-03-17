@@ -1,5 +1,6 @@
-# flutter-guide
-Study, Samples and References
+# quiz_app
+
+A new Flutter project.
 
 ## Getting Started
 
@@ -13,11 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-### Studies referencies - Materials
-
-Learn Flutter & Dart to Build iOS & Android Apps
-Udemy: [https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-
-Flutter Development Bootcamp with Dart
-Udemy: [https://www.udemy.com/course/flutter-bootcamp-with-dart/](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
